@@ -8,7 +8,7 @@ install.packages("devtools")
 library("devtools")
 ```
 
-Then install melfuR
+Then install the package
 
 ```r
 install_github("pygmyperch/GEA_workshop")
