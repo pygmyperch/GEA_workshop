@@ -1,7 +1,7 @@
 # GEA_workshop
 Data and R code for performing RDA analysis
+
 First, install devtools:
-First install devtools
 
 ```r
 install.packages("devtools")
