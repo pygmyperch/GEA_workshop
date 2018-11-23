@@ -7,7 +7,7 @@ This workshop will cover the use of redundancy analysis (RDA) in landscape genom
 
 
 ## Required software:
-[[[https://www.r-project.org/Rlogo.png|width=50px]]](https://www.r-project.org/)
+[R](https://www.r-project.org/)
 
 
 ## Optional software:
