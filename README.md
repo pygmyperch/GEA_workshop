@@ -10,7 +10,6 @@ Please ensure you have installed the required software and R packages prior to t
 <br/>
 
 ## Further reading
-| ----------- |
 | Forester BR, Lasky JR, Wagner HH, Urban DL (2018) Comparing methods for detecting multilocus adaptation with multivariate genotype‐environment associations. Molecular Ecology 27, 2215–2233. |
 
 
