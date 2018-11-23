@@ -6,7 +6,7 @@ University of Canberra 4-6 December 2018
 
 
 ## Genotype-environment association analyses
-![Alt text](../working/images/melfu_logo.png)
+[![Alt text](../working/images/melfu_logo.png)](http://www.molecularecology.flinders.edu.au/)
 **Luciano Beheregaray and Chris Brauer**
 http://www.molecularecology.flinders.edu.au/
 
@@ -79,7 +79,7 @@ If you have trouble, you can instead try downloading the package binary to insta
 \
 \
 \
-Then, run the following command in the R console, replacing "/path/to/" with the file path to your downloaded package:
+Then, run the following command in the R console, replacing "/path/to/" with the file path to the downloaded package:
 
 MacOS/Linux:
 ```r
