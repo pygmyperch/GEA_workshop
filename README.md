@@ -27,6 +27,7 @@ Identifying the genetic and evolutionary basis of local adaptation is a key focu
 
 <br/>
 <br/>
+
 ## Please ensure you have installed the required software and R packages prior to the workshop by following the instructions below.
 
 # Required software:
