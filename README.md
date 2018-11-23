@@ -61,14 +61,14 @@ b.	or Windows
 \
 \
 \
-Then, run the following command in the R console:
+Then, run the following command in the R console, replacing "/path/to/" with the location of your downloaded package:
 
 ```r
 a.	MacOS/Linux
-	install.packages("/path/to/download/packfor_0.0-8.tar.gz", repos = NULL, type = "source")
+	install.packages("/path/to/packfor_0.0-8.tar.gz", repos = NULL, type = "source")
 
 b.	or Windows
-	install.packages("/path/to/download/packfor_0.0-8.zip", repos = NULL, type = "source")
+	install.packages("/path/to/packfor_0.0-8.zip", repos = NULL, type = "source")
 
 
 ```
