@@ -28,7 +28,7 @@ Download at: https://www.rstudio.com/products/rstudio/download/
 ```
 
 Required R packages: adegenet, vegan, fmsb, psych, packfor
-First four can be installed from CRAN using the following commands in the R console
+First four can be installed from CRAN using the following commands in the R console:
 
 ```r
 install.packages("adegenet")
@@ -46,12 +46,12 @@ install.packages("packfor", repos="http://R-Forge.R-project.org")
 
 ```
 You may get a question during the install process:
-“Do you want to attempt to install these from sources?”
+“Do you want to attempt to install these from sources?”\
 You should answer: y
 \
 \
 \
-If you have trouble, you can instead download the package binary to install:
+If you have trouble, you can instead try downloading the package binary to install:
 
 ```r
 Download the package for either
@@ -70,8 +70,6 @@ b.	or Windows
 Then, run the following command in the R console:
 
 ```r
-Download the package for either
-
 a.	MacOS/Linux
 	install.packages("~/Downloads/packfor_0.0-8.tar.gz", repos = NULL, type = "source")
 
