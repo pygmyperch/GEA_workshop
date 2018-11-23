@@ -25,6 +25,9 @@ Please ensure you have installed the required software and R packages prior to t
 ![R logo](../working/images/Rlogo.png)
 ![R logo](https://www.r-project.org/)
 
+[[[/images/Rlogo.png]]][1]
+[1]: https://www.r-project.org/
+
 ## Optional software:
 [RStudio (free version is fine)](https://www.rstudio.com/products/rstudio/download/), 
 this is not essential, but RStudio provides a nice user interface that helps keep everything organised
