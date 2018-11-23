@@ -1,7 +1,9 @@
 # Genotype-environment association analyses
-## SNPs in population- and phylo-genomics workshop
+### SNPs in population- and phylo-genomics workshop
 University of Canberra 4-6 December 2018
 
+<br/>
+<br/>
 <br/>
 <br/>
 
