@@ -42,16 +42,12 @@ You should answer: y
 \
 \
 If you have trouble, you can instead try downloading the package binary to install for either:
-\
-\
+
 
 [MacOS/Linux](http://download.r-forge.r-project.org/src/contrib/packfor_0.0-8.tar.gz)
 
 
 [or Windows](http://download.r-forge.r-project.org/bin/windows/contrib/3.3/packfor_0.0-8.zip)
-
-
-```
 \
 \
 \
