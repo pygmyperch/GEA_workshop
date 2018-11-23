@@ -20,7 +20,7 @@ Please ensure you have installed the required software and R packages prior to t
 <br/>
 
 ## Required software:
-[![Alt text](../working/images/Rlogo.png)](https://www.r-project.org/)
+[![Alt text](../working/images/R.png)](https://www.r-project.org/)
 
 ## Optional software:
 [![Alt text](../working/images/RStudio.png)](https://www.rstudio.com/products/rstudio/download/)
