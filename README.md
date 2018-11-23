@@ -59,7 +59,7 @@ install.packages("/path/to/packfor_0.0-8.tar.gz", repos = NULL, type = "source")
 
 ```
 
-or Windows:
+Windows:
 ```r
 install.packages("/path/to/packfor_0.0-8.zip", repos = NULL, type = "source")
 
