@@ -53,7 +53,7 @@ install.packages("psych")
 \
 packfor can be more difficult, depending on your system
 
-First try:
+First, try:
 
 ```r
 install.packages("packfor", repos="http://R-Forge.R-project.org")
