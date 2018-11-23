@@ -20,7 +20,7 @@ This is not essential, but RStudio provides a nice user interface that helps kee
 Download at: https://www.rstudio.com/products/rstudio/download/
 ```
 
-## Required R packages: adegenet, vegan, fmsb, psych, packfor\
+## Required R packages: adegenet, vegan, fmsb, psych, packfor
 The first four can be installed from CRAN using the following commands in the R console:
 
 ```r
@@ -40,7 +40,7 @@ install.packages("packfor", repos="http://R-Forge.R-project.org")
 
 ```
 You may get a question during the install process:
-“Do you want to attempt to install these from sources?”\
+“Do you want to attempt to install these from sources?”
 You should answer: y
 \
 \
