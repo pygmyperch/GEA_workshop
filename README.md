@@ -103,7 +103,8 @@ library(packfor)
 \
 \
 \
-Finally, load the data and R code for the tutorial
+
+## Finally, load the data and R code for the tutorial
 
 First, install devtools:
 
