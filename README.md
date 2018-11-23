@@ -100,24 +100,6 @@ library(psych)
 library(packfor)
 
 ```
-<br/>
-<br/>
-
-## Finally, load the data and R code for the tutorial
-
-First, install devtools:
-
-```r
-install.packages("devtools")
-library("devtools")
-```
-
-Then install the package from GitHub
-
-```r
-install_github("pygmyperch/GEA_workshop")
-library(GEA_workshop)
-```
 
 
 
