@@ -1,11 +1,14 @@
 # SNPs in population- and phylo-genomics workshop
-Luciano Beheregaray and Chris Brauer, University of Canberra 4-6 December 2018
-
-![Alt text](../working/images/melfu_logo.png)
+University of Canberra 4-6 December 2018
 
 
 
 ## Genotype-environment association analyses
+![Alt text](../working/images/melfu_logo.png)
+Luciano Beheregaray and Chris Brauer
+
+<br/>
+
 This workshop will cover the use of redundancy analysis (RDA) in landscape genomics studies of non-model species. 
 \
 Please ensure you have installed the required software and R packages prior to the workshop by following the instructions below.
