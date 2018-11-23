@@ -23,7 +23,7 @@ Please ensure you have installed the required software and R packages prior to t
 [R](https://www.r-project.org/)
 
 ![R logo](../working/images/Rlogo.png)
-Format: ![Alt Text](https://www.r-project.org/)
+![R logo](https://www.r-project.org/)
 
 ## Optional software:
 [RStudio (free version is fine)](https://www.rstudio.com/products/rstudio/download/), 
