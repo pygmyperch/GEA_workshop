@@ -41,6 +41,7 @@ install.packages("packfor", repos="http://R-Forge.R-project.org")
 ```
 You may get a question during the install process:
 “Do you want to attempt to install these from sources?”
+\
 You should answer: y
 \
 \
