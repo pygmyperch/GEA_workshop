@@ -1,4 +1,5 @@
 # SNPs in population- and phylo-genomics workshop
+Luciano Beheregaray and Chris Brauer
 University of Canberra 4-6 December 2018
 
 
