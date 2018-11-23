@@ -9,8 +9,8 @@ University of Canberra 4-6 December 2018
 ___
 [![Alt text](../master/images/melfu_logo.png)](http://www.molecularecology.flinders.edu.au/)
 
- 
-http://www.molecularecology.flinders.edu.au/&nbsp; &nbsp; [![Alt text](../working/images/fb3.png)](https://www.facebook.com/molecularecologylab/)
+
+<div style="text-align: right"> http://www.molecularecology.flinders.edu.au/&nbsp; &nbsp; [![Alt text](../working/images/fb3.png)](https://www.facebook.com/molecularecologylab/) </div>
 
 ### Luciano Beheregaray&nbsp; [![Alt text](../working/images/mail2.png)](mailto:luciano.beheregaray@flinders.edu.au)&nbsp; &nbsp; &nbsp; Chris Brauer&nbsp; [![Alt text](../working/images/mail2.png)](mailto:chris.brauer@flinders.edu.au)&nbsp; &nbsp; [![Alt text](../working/images/twitter2.png)](https://twitter.com/pygmyperch)
 ___
