@@ -61,7 +61,7 @@ b.	or Windows
 \
 \
 \
-Then, run the following command in the R console, replacing "/path/to/" with the location of your downloaded package:
+Then, run the following command in the R console, replacing "/path/to/" with the file path to your downloaded package:
 
 ```r
 a.	MacOS/Linux
