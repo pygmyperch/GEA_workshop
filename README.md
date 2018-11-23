@@ -7,11 +7,13 @@ This workshop will cover the use of redundancy analysis (RDA) in landscape genom
 
 <br/>
 <br/>
+
 ## Required software:
 [R](https://www.r-project.org/)
 
 <br/>
 <br/>
+
 ## Optional software:
 [RStudio (free version is fine)](https://www.rstudio.com/products/rstudio/download/), 
 this is not essential, but RStudio provides a nice user interface that helps keep everything organised
