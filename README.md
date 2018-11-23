@@ -8,7 +8,7 @@ University of Canberra 4-6 December 2018
 ## Genotype-environment association analyses
 [![Alt text](../master/images/melfu_logo.png)](http://www.molecularecology.flinders.edu.au/)
 
-**Luciano Beheregaray and Chris Brauer**
+**Luciano Beheregaray and Chris Brauer**&nbsp; &nbsp; &nbsp; 
 http://www.molecularecology.flinders.edu.au/&nbsp; &nbsp; [![Alt text](../working/images/fb.png)](https://www.facebook.com/molecularecologylab/)&nbsp; &nbsp; [![Alt text](../working/images/twitter.png)](https://twitter.com/pygmyperch)
 
 <br/>
