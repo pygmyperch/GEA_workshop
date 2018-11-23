@@ -13,7 +13,6 @@ http://www.molecularecology.flinders.edu.au/
 <br/>
 
 This workshop will cover the use of redundancy analysis (RDA) in landscape genomics studies of non-model species. 
-\
 Please ensure you have installed the required software and R packages prior to the workshop by following the instructions below.
 <br/>
 <br/>
