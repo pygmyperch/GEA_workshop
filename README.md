@@ -1,6 +1,6 @@
 # GEA_workshop
-\
-\
+## 
+
 
 ## Required software: R
 
@@ -60,7 +60,7 @@ Then, run the following command in the R console:
 
 ```r
 a.	MacOS/Linux
-	install.packages("~/Downloads/packfor_0.0-8.tar.gz", repos = NULL, type = "source")
+	install.packages("/path/to/download/packfor_0.0-8.tar.gz", repos = NULL, type = "source")
 
 b.	or Windows
 	install.packages("/path/to/download/packfor_0.0-8.zip", repos = NULL, type = "source")
