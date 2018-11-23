@@ -1,19 +1,6 @@
 # GEA_workshop
-Data and R code for performing RDA analysis
-
-First, install devtools:
-
-```r
-install.packages("devtools")
-library("devtools")
-```
-
-Then install the package
-
-```r
-install_github("pygmyperch/GEA_workshop")
-```
-
+\
+\
 ## Required software: R
 
 ```r
@@ -31,18 +18,11 @@ Download at: https://www.rstudio.com/products/rstudio/download/
 The first four can be installed from CRAN using the following commands in the R console:
 
 ```r
+install.packages("devtools")
 install.packages("adegenet")
 install.packages("vegan")
 install.packages("fmsb")
 install.packages("psych")
-
-then, load packages
-
-library(adegenet)
-library(vegan)
-library(fmsb)
-library(psych)
-
 
 ```
 \
@@ -85,6 +65,34 @@ b.	or Windows
 	install.packages("/path/to/download/packfor_0.0-8.zip", repos = NULL, type = "source")
 
 
+```
+\
+\
+\
+Now load the installed packages:
+```r
+library(adegenet)
+library(vegan)
+library(fmsb)
+library(psych)
+library(packfor)
+
+```
+
+Finally, load data and R code for the tutorial
+
+First, install devtools:
+
+```r
+install.packages("devtools")
+library("devtools")
+```
+
+Then install the package from GitHub
+
+```r
+install_github("pygmyperch/GEA_workshop")
+library(GEA_workshop)
 ```
 
 
