@@ -1,25 +1,19 @@
 # SNPs in population- and phylo-genomics workshop
-### University of Canberra 4-6 December 2018
-\
-\
+University of Canberra 4-6 December 2018
 
 
 ## Genotype-environment association analyses
 This workshop will cover the use of redundancy analysis (RDA) in landscape genomics studies of non-model species. 
 
 
-## Required software: R
+## Required software:
+[R](https://www.r-project.org/)
 
-```r
-Download at: https://www.r-project.org/
-```
 
-## Optional software: RStudio
+## Optional software:
+[RStudio](https://www.rstudio.com/products/rstudio/download/)
 This is not essential, but RStudio provides a nice user interface that helps keep everything organised
 
-```r
-Download at: https://www.rstudio.com/products/rstudio/download/
-```
 
 ## Required R packages: adegenet, vegan, fmsb, psych, packfor
 The first four can be installed from CRAN using the following commands in the R console:
