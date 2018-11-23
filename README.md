@@ -28,7 +28,7 @@ Please ensure you have installed the required software and R packages prior to t
 [[[../working/images/Rlogo.png]]][1]
 [1]: https://www.r-project.org/
 
-![Alt text](../working/images/Rlogo.png)
+![Alt text](../working/images/Rlogo.png)(https://www.r-project.org/)
 
 ## Optional software:
 [RStudio (free version is fine)](https://www.rstudio.com/products/rstudio/download/), 
