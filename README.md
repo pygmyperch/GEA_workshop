@@ -23,7 +23,7 @@ Please ensure you have installed the required software and R packages prior to t
 [![Alt text](../working/images/Rlogo.png)](https://www.r-project.org/)
 
 ## Optional software:
-[![Alt text](../working/images/RStudio-Logo-Blue-Gray-125.png)](https://www.rstudio.com/products/rstudio/download/)
+[![Alt text](../working/images/RStudio.png)](https://www.rstudio.com/products/rstudio/download/)
 
 This is not essential, but RStudio provides a nice user interface that helps keep everything organised.
 
