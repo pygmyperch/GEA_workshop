@@ -1,7 +1,7 @@
 # SNPs in population- and phylo-genomics workshop
 ## University of Canberra 4-6 December 2018
-/
-/
+
+
 
 ## Genotype-environment association analyses
 This workshop will cover the use of redundancy analysis (RDA) in landscape genomics studies of non-model species. 
