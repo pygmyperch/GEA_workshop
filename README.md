@@ -10,8 +10,7 @@ Please ensure you have installed the required software and R packages prior to t
 <br/>
 
 ## Suggested reading
-[Brauer CJ, Unmack PJ, Smith S, Bernatchez L, Beheregaray LB (2018) On the roles of landscape heterogeneity and environmental variation in determining population genomic structure in a dendritic system. Molecular Ecology 27, 3484-3497.](../docs/Brauer_et_al_2018.pdf)
-
+[Brauer CJ, Unmack PJ, Smith S, Bernatchez L, Beheregaray LB (2018) On the roles of landscape heterogeneity and environmental variation in determining population genomic structure in a dendritic system. Molecular Ecology 27, 3484-3497.](../working/docs/Brauer_et_al_2018.pdf)
 
 Forester BR, Lasky JR, Wagner HH, Urban DL (2018) Comparing methods for detecting multilocus adaptation with multivariate genotype‐environment associations. Molecular Ecology 27, 2215–2233.
 
