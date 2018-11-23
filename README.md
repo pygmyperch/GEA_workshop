@@ -5,11 +5,13 @@ University of Canberra 4-6 December 2018
 ## Genotype-environment association analyses
 This workshop will cover the use of redundancy analysis (RDA) in landscape genomics studies of non-model species. 
 
-
+<br/>
+<br/>
 ## Required software:
 [R](https://www.r-project.org/)
 
-
+<br/>
+<br/>
 ## Optional software:
 [RStudio (free version is fine)](https://www.rstudio.com/products/rstudio/download/), 
 this is not essential, but RStudio provides a nice user interface that helps keep everything organised
