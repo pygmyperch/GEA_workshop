@@ -27,8 +27,8 @@ This is not essential, but RStudio provides a nice user interface that helps kee
 Download at: https://www.rstudio.com/products/rstudio/download/
 ```
 
-Required R packages: adegenet, vegan, fmsb, psych, packfor
-First four can be installed from CRAN using the following commands in the R console:
+Required R packages: adegenet, vegan, fmsb, psych, packfor\
+The first four can be installed from CRAN using the following commands in the R console:
 
 ```r
 install.packages("adegenet")
