@@ -100,9 +100,8 @@ library(psych)
 library(packfor)
 
 ```
-\
-\
-\
+<br/>
+<br/>
 
 ## Finally, load the data and R code for the tutorial
 
