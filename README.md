@@ -4,8 +4,6 @@ University of Canberra 4-6 December 2018
 
 <br/>
 <br/>
-<br/>
-<br/>
 
 
 ___
