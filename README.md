@@ -68,8 +68,6 @@ b.	or Windows
 
 ```
 \
-\
-\
 Now load the installed packages:
 ```r
 library(adegenet)
