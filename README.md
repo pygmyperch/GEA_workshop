@@ -6,7 +6,7 @@ University of Canberra 4-6 December 2018
 
 
 ## Genotype-environment association analyses
-[![Alt text](../blob/images/melfu_logo.png)](http://www.molecularecology.flinders.edu.au/)
+[![Alt text](../master/images/melfu_logo.png)](http://www.molecularecology.flinders.edu.au/)
 **Luciano Beheregaray and Chris Brauer**
 http://www.molecularecology.flinders.edu.au/
 
@@ -28,10 +28,10 @@ Please ensure you have installed the required software and R packages prior to t
 <br/>
 
 ## Required software:
-[![Alt text](../working/images/R.png)](https://www.r-project.org/)
+[![Alt text](../master/images/R.png)](https://www.r-project.org/)
 
 ## Optional software:
-[![Alt text](../working/images/RStudio.png)](https://www.rstudio.com/products/rstudio/download/)
+[![Alt text](../master/images/RStudio.png)](https://www.rstudio.com/products/rstudio/download/)
 
 This is not essential, but RStudio provides a nice user interface that helps keep everything organised.
 
