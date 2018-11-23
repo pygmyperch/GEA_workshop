@@ -10,7 +10,7 @@ ___
 [![Alt text](../master/images/melfu_logo.png)](http://www.molecularecology.flinders.edu.au/)
 
 **Luciano Beheregaray and Chris Brauer**&nbsp; &nbsp; &nbsp; 
-http://www.molecularecology.flinders.edu.au/&nbsp; &nbsp; [![Alt text](../working/images/fb2.png)](https://www.facebook.com/molecularecologylab/)&nbsp; &nbsp; [![Alt text](../working/images/twitter2.png)](https://twitter.com/pygmyperch)&nbsp; &nbsp; [![Alt text](../working/images/mail2.png)](chris.brauer@flinders.edu.au)
+http://www.molecularecology.flinders.edu.au/&nbsp; &nbsp; [![Alt text](../working/images/fb2.png)](https://www.facebook.com/molecularecologylab/)&nbsp; &nbsp; [![Alt text](../working/images/twitter2.png)](https://twitter.com/pygmyperch)&nbsp; &nbsp; [![Alt text](../working/images/mail2.png)](mailto:chris.brauer@flinders.edu.au)
 ___
 <br/>
 
