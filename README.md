@@ -5,9 +5,15 @@ University of Canberra 4-6 December 2018
 ## Genotype-environment association analyses
 This workshop will cover the use of redundancy analysis (RDA) in landscape genomics studies of non-model species. 
 \
-Please ensure you have installed R and the required R packages prior to the workshop by following the instructions below.
+Please ensure you have installed the required software and R packages prior to the workshop by following the instructions below.
 <br/>
 <br/>
+
+## Further reading
+| ----------- |
+| Forester BR, Lasky JR, Wagner HH, Urban DL (2018) Comparing methods for detecting multilocus adaptation with multivariate genotype‐environment associations. Molecular Ecology 27, 2215–2233. |
+
+
 
 ## Required software:
 [R](https://www.r-project.org/)
