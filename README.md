@@ -28,12 +28,14 @@ Identifying the genetic and evolutionary basis of local adaptation is a key focu
 <br/>
 <br/>
 
-# **Please ensure you have installed the required software and R packages prior to the workshop by following the instructions below.**
+# Please ensure you have installed the required software and R packages prior to the workshop by following the instructions below.
 
-# Required software:
+<br/>
+
+## Required software:
 [![Alt text](../master/images/R.png)](https://www.r-project.org/)
 
-# Optional software:
+## Optional software:
 [![Alt text](../master/images/RStudio.png)](https://www.rstudio.com/products/rstudio/download/)
 
 This is not essential, but RStudio provides a nice user interface that helps keep everything organised.
@@ -42,7 +44,7 @@ This is not essential, but RStudio provides a nice user interface that helps kee
 <br/>
 
 
-# Required R packages:
+## Required R packages:
 
 **devtools, adegenet, vegan, fmsb, psych, packfor**
 
