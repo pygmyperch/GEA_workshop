@@ -37,7 +37,7 @@ install.packages("fmsb")
 install.packages("psych")
 
 ```
-
+\
 packfor can be more difficult, depending on your system
 First try:
 
@@ -48,9 +48,9 @@ install.packages("packfor", repos="http://R-Forge.R-project.org")
 You may get a question during the install process:
 “Do you want to attempt to install these from sources?”
 You should answer: y
-
-
-
+\
+\
+\
 If you have trouble, you can instead download the package binary to install:
 
 ```r
@@ -64,8 +64,9 @@ b.	or Windows
 
 
 ```
-
-
+\
+\
+\
 Then, run the following command in the R console:
 
 ```r
