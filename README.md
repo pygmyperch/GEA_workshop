@@ -36,6 +36,14 @@ install.packages("vegan")
 install.packages("fmsb")
 install.packages("psych")
 
+then, load packages
+
+library(adegenet)
+library(vegan)
+library(fmsb)
+library(psych)
+
+
 ```
 \
 packfor can be more difficult, depending on your system
