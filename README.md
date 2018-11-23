@@ -28,6 +28,8 @@ Please ensure you have installed the required software and R packages prior to t
 [[[../working/images/Rlogo.png]]][1]
 [1]: https://www.r-project.org/
 
+![Alt text](../working/images/Rlogo.png)
+
 ## Optional software:
 [RStudio (free version is fine)](https://www.rstudio.com/products/rstudio/download/), 
 this is not essential, but RStudio provides a nice user interface that helps keep everything organised
