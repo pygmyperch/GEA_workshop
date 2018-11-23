@@ -9,9 +9,7 @@ University of Canberra 4-6 December 2018
 [![Alt text](../master/images/melfu_logo.png)](http://www.molecularecology.flinders.edu.au/)
 
 **Luciano Beheregaray and Chris Brauer**
-http://www.molecularecology.flinders.edu.au/
-[![Alt text](../working/images/fb.png)](https://www.facebook.com/molecularecologylab/)
-[![Alt text](../working/images/twitter.png)](https://twitter.com/pygmyperch)
+http://www.molecularecology.flinders.edu.au/ [![Alt text](../working/images/fb.png)](https://www.facebook.com/molecularecologylab/) [![Alt text](../working/images/twitter.png)](https://twitter.com/pygmyperch)
 
 <br/>
 
@@ -22,9 +20,9 @@ Identifying the genetic and evolutionary basis of local adaptation is a key focu
 <br/>
 
 ## Suggested reading
-[Brauer CJ, Unmack PJ, Smith S, Bernatchez L, Beheregaray LB (2018) On the roles of landscape heterogeneity and environmental variation in determining population genomic structure in a dendritic system. *Molecular Ecology* 27, 3484-3497.](../working/docs/Brauer_et_al_2018.pdf)
+[Brauer CJ, Unmack PJ, Smith S, Bernatchez L, Beheregaray LB (2018) On the roles of landscape heterogeneity and environmental variation in determining population genomic structure in a dendritic system. *Molecular Ecology* **27**, 3484-3497.](../working/docs/Brauer_et_al_2018.pdf)
 
-[Forester BR, Lasky JR, Wagner HH, Urban DL (2018) Comparing methods for detecting multilocus adaptation with multivariate genotype‐environment associations. *Molecular Ecology* 27, 2215–2233.](../working/docs/Forester_et_al_2018.pdf)
+[Forester BR, Lasky JR, Wagner HH, Urban DL (2018) Comparing methods for detecting multilocus adaptation with multivariate genotype‐environment associations. *Molecular Ecology* **27**, 2215–2233.](../working/docs/Forester_et_al_2018.pdf)
 
 [Capblancq T, Luu K, Blum MG, Bazin E (2018) Evaluation of redundancy analysis to identify signatures of local adaptation. *Molecular Ecology Resources*.](../working/docs/Capblancq_et_al_2018.pdf)
 
