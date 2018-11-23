@@ -10,7 +10,7 @@ University of Canberra 4-6 December 2018
 **Luciano Beheregaray and Chris Brauer**
 http://www.molecularecology.flinders.edu.au/
 
-[![Alt text](../working/images/facebook.jpg)](https://www.facebook.com/molecularecologylab/)
+[![Alt text](../working/images/facebook.png)](https://www.facebook.com/molecularecologylab/)
 [![Alt text](../working/images/twitter.png)](https://twitter.com/pygmyperch)
 
 <br/>
