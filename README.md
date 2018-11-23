@@ -1,5 +1,5 @@
-# GEA_workshop
-## 
+# SNPs in population- and phylo-genomics workshop\
+# University of Canberra 4-6 December 2018
 
 
 ## Required software: R
