@@ -53,15 +53,18 @@ If you have trouble, you can instead try downloading the package binary to insta
 \
 Then, run the following command in the R console, replacing "/path/to/" with the file path to your downloaded package:
 
+MacOS/Linux:
 ```r
-a.	MacOS/Linux
-	install.packages("/path/to/packfor_0.0-8.tar.gz", repos = NULL, type = "source")
-
-b.	or Windows
-	install.packages("/path/to/packfor_0.0-8.zip", repos = NULL, type = "source")
-
+install.packages("/path/to/packfor_0.0-8.tar.gz", repos = NULL, type = "source")
 
 ```
+
+or Windows:
+```r
+install.packages("/path/to/packfor_0.0-8.zip", repos = NULL, type = "source")
+
+```
+
 \
 Now load the installed packages:
 ```r
