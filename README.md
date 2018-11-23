@@ -39,7 +39,7 @@ This is not essential, but RStudio provides a nice user interface that helps kee
 <br/>
 
 
-## Required R packages: adegenet, vegan, fmsb, psych, packfor
+## Required R packages: devtools, adegenet, vegan, fmsb, psych, packfor
 The first five can be installed from CRAN using the following commands in the R console:
 
 ```r
