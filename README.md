@@ -79,7 +79,7 @@ library(packfor)
 ```
 \
 \
-\
+
 
 Finally, load data and R code for the tutorial
 
