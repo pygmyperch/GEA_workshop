@@ -22,7 +22,7 @@ Please ensure you have installed the required software and R packages prior to t
 ## Required software:
 [R](https://www.r-project.org/)
 
-[[[../working/images/Rlogo.png]]][1]
+[[[(../working/images/Rlogo.png)]]][1]
 [1]: https://www.r-project.org/
 
 ## Optional software:
