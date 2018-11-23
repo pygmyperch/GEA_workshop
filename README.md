@@ -12,7 +12,8 @@ http://www.molecularecology.flinders.edu.au/
 
 <br/>
 
-This workshop will cover the use of redundancy analysis (RDA) in landscape genomics studies of non-model species. 
+Identifying the genetic and evolutionary basis of local adaptation is a key focus in evolutionary biology. Genotype-environment association (GEA) analyses are used to identify candidate adaptive loci by testing for direct associations between allele frequencies and environmental variables. These methods are increasingly applied in landscape genomics studies, particularly as genome-wide data becomes more accessible for non-model species. This workshop will cover the use of a multivariate ordination GEA approach, redundancy analysis (RDA), for identifying candidate loci from SNP data. 
+
 Please ensure you have installed the required software and R packages prior to the workshop by following the instructions below.
 <br/>
 <br/>
@@ -110,7 +111,7 @@ library(packfor)
 
 ## TO DO
 
-**Check back here soon!**
+**Please check back here soon!**
 
 
 
