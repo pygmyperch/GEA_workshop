@@ -7,7 +7,7 @@ University of Canberra 4-6 December 2018
 
 ## Genotype-environment association analyses
 ![Alt text](../working/images/melfu_logo.png)
-Luciano Beheregaray and Chris Brauer
+**Luciano Beheregaray and Chris Brauer**
 
 <br/>
 
