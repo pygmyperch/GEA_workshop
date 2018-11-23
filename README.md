@@ -13,7 +13,7 @@ University of Canberra 4-6 December 2018
 
 **Luciano Beheregaray and Chris Brauer**&nbsp; &nbsp; &nbsp; 
 http://www.molecularecology.flinders.edu.au/&nbsp; &nbsp; [![Alt text](../working/images/fb.png)](https://www.facebook.com/molecularecologylab/)&nbsp; &nbsp; [![Alt text](../working/images/twitter.png)](https://twitter.com/pygmyperch)
-
+___
 <br/>
 
 Identifying the genetic and evolutionary basis of local adaptation is a key focus in evolutionary biology. Genotype-environment association (GEA) analyses are used to identify candidate adaptive loci by testing for direct associations between allele frequencies and environmental variables. These methods are increasingly applied in landscape genomics studies, particularly as genome-wide data becomes more accessible for non-model species. This workshop will cover the use of a multivariate ordination GEA approach, redundancy analysis (RDA), for identifying candidate loci from SNP data. 
