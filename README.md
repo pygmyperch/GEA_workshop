@@ -1,6 +1,6 @@
 # Genotype-environment association analyses
 ### SNPs in population- and phylo-genomics workshop
-University of Canberra 4-6 December 2018
+Centre for Biodiversity Analysis, 4-6 December 2018
 
 <br/>
 <br/>
