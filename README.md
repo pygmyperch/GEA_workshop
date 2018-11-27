@@ -113,9 +113,8 @@ library(packfor)
 <br/>
 <br/>
 
-## Finally, load the data and R code for the tutorial
+## The data and R code for the tutorial will be available at the workshop
 
-**The data and code files are only small and can be downloaded at the workshop**
 
 
 
