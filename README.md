@@ -113,7 +113,7 @@ library(packfor)
 <br/>
 <br/>
 
-## The data and R code for the tutorial will be available at the workshop
+## The data and R code for the tutorial will be available to download at the workshop
 
 
 
