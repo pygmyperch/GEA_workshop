@@ -101,7 +101,7 @@ install.packages("/path/to/packfor_0.0-8.zip", repos = NULL, type = "source")
 ```
 
 \
-Now load the installed packages:
+Now check to see that the installed packages load:
 ```r
 library(adegenet)
 library(vegan)
