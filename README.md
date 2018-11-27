@@ -51,10 +51,9 @@ This is not essential, but RStudio provides a nice user interface that helps kee
 
 **devtools, adegenet, vegan, fmsb, psych, packfor**
 
-The first five can be installed from CRAN using the following commands in the R console:
+The first four can be installed from CRAN using the following commands in the R console:
 
 ```r
-install.packages("devtools")
 install.packages("adegenet")
 install.packages("vegan")
 install.packages("fmsb")
