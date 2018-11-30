@@ -47,9 +47,9 @@ This is not essential, but RStudio provides a nice user interface that helps kee
 <br/>
 
 
-## Required R packages:
+## Required R packages: UPDATE: due to several installation issues, *packfor** is no longer required
 
-**devtools, adegenet, vegan, fmsb, psych, packfor**
+**adegenet, vegan, fmsb, psych**
 
 The first four can be installed from CRAN using the following commands in the R console:
 
@@ -61,44 +61,7 @@ install.packages("psych")
 
 ```
 \
-**packfor** can be more difficult, depending on your system
-
-First, try:
-
-```r
-install.packages("packfor", repos = "http://R-Forge.R-project.org")
-
-```
-You may get a question during the install process:
-“Do you want to attempt to install these from sources?”
-\
-You should answer: **y**
-\
-\
-\
-If you have trouble, you can instead try downloading the package binary to install for either:
-
-
-[MacOS/Linux](http://download.r-forge.r-project.org/src/contrib/packfor_0.0-8.tar.gz)
-
-
-[or Windows](http://download.r-forge.r-project.org/bin/windows/contrib/3.3/packfor_0.0-8.zip)
-\
-\
-\
-Then, run the following command in the R console, replacing "/path/to/" with the file path to the downloaded package:
-
-MacOS/Linux:
-```r
-install.packages("/path/to/packfor_0.0-8.tar.gz", repos = NULL, type = "source")
-
-```
-
-Windows:
-```r
-install.packages("/path/to/packfor_0.0-8.zip", repos = NULL, type = "source")
-
-```
+**packfor no longer required, sorry for any inconvenience**
 
 \
 Now check to see that the installed packages load:
@@ -107,7 +70,7 @@ library(adegenet)
 library(vegan)
 library(fmsb)
 library(psych)
-library(packfor)
+
 
 ```
 <br/>
