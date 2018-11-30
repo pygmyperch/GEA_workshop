@@ -49,7 +49,7 @@ This is not essential, but RStudio provides a nice user interface that helps kee
 
 ## Required R packages:
 
-# **UPDATE: due to a number of installation issues, *packfor* is no longer required**
+# **UPDATE: due to a number of installation issues, *packfor* is no longer required for the workshop**
 
 **adegenet, vegan, fmsb, psych**
 
