@@ -76,7 +76,6 @@ library(dartR)
 ```
 <br/>
 <br/>
-<br/>
 
 ## The data and R code for the tutorial are available in [workshop_data](../master/workshop_data/)
 
