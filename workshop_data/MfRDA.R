@@ -154,9 +154,6 @@ y <- axes[,c(1:only-1)]
 env_var <- as.matrix(ENV[,4:9])
 
 
-# Calculate the full RDA & get adj R2
-env.full <- rda(y, env_var)
-env.R2full <- RsquareAdj(env.full)$adj.r.squared
 
 # forward selection of environmental variables
 mod0 <- rda(y ~ ., data.frame(env_var), scale= FALSE)
