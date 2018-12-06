@@ -121,11 +121,11 @@ y.lab <- paste0("PC2 (", paste(round((pc$CA$eig[2]/pc$tot.chi*100),2)),"%)")
 
 # plot PCA
 
-#pdf(file = "Mf_PCA.pdf", height = 6, width = 6)
+pdf(file = "Mf_PCA.pdf", height = 6, width = 6)
 pRDAplot <- plot(pc, choices = c(1, 2), type = "n", xlab=x.lab, ylab=y.lab, cex.lab=1)
 with(ENV, points(pc, display = "sites", col = site_colvec[pop], pch = site_pch[pop], cex=0.7, bg = site_colvec[pop]))
 legend("topright", legend = site_leglabs, col=site_legcols, pch=site_legpch, pt.cex=1, cex=0.50, xpd=1, box.lty = 0, bg= "transparent")
-#dev.off()
+dev.off()
 
 
 
@@ -139,7 +139,7 @@ legend("topright", legend = site_leglabs, col=site_legcols, pch=site_legpch, pt.
 
 
 # Preliminary analysis to identify environmental variables to retain in final RDA model
-# reduce SNP data to PCoAs
+# reduce SNP data to PCoAs (you can instead use the whole data set here if you prefer)
 snps.bray <- vegdist(snps, method="bray")
 snp.pcoa <- cmdscale(snps.bray, k=nrow(snps)-1, eig=T, add=T)
 eig <- snp.pcoa$eig/sum(snp.pcoa$eig)
@@ -154,9 +154,6 @@ y <- axes[,c(1:only-1)]
 env_var <- as.matrix(ENV[,4:9])
 
 
-# Calculate the full RDA & get adj R2
-env.full <- rda(y, env_var)
-env.R2full <- RsquareAdj(env.full)$adj.r.squared
 
 # forward selection of environmental variables
 mod0 <- rda(y ~ ., data.frame(env_var), scale= FALSE)
@@ -283,12 +280,12 @@ z.lab <- paste0("RDA3 (", paste(round((Mf.RDA$CCA$eig[3]/Mf.RDA$CCA$tot.chi*100)
 
 
 #plot RDA1, RDA2
-pdf(file = "Mf_RDA.pdf", height = 6, width = 6)
+#pdf(file = "Mf_RDA.pdf", height = 6, width = 6)
 pRDAplot <- plot(Mf.RDA, choices = c(1, 2), type="n", cex.lab=1, xlab=x.lab, ylab=y.lab)
 with(ENV, points(Mf.RDA, display = "sites", col = site_colvec[pop], pch = site_pch[pop], cex=0.7, bg = site_colvec[pop]))
 text(Mf.RDA, "bp",choices = c(1, 2), select = c("tempPC1", "tempPC2", "precipPC2", "flowPC2"), col="blue", cex=0.6)
 legend("topleft", legend = site_leglabs, col=site_legcols, pch=site_legpch, pt.cex=1, cex=0.50, xpd=1, box.lty = 0, bg= "transparent")
-dev.off()
+#dev.off()
 
 
 
