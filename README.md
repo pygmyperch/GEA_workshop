@@ -49,21 +49,19 @@ This is not essential, but RStudio provides a nice user interface that helps kee
 
 ## Required R packages:
 
-# **UPDATE: due to a number of installation issues, *packfor* is no longer required for the workshop**
 
-**adegenet, vegan, fmsb, psych**
+**adegenet, vegan, fmsb, psych, dartR**
 
-The first four can be installed from CRAN using the following commands in the R console:
+These can be installed from CRAN using the following commands in the R console:
 
 ```r
 install.packages("adegenet")
 install.packages("vegan")
 install.packages("fmsb")
 install.packages("psych")
+install.packages("dartR")
 
 ```
-\
-**packfor no longer required, sorry for any inconvenience**
 
 \
 Now check to see that the installed packages load:
@@ -72,13 +70,14 @@ library(adegenet)
 library(vegan)
 library(fmsb)
 library(psych)
+library(dartR)
 
 
 ```
 <br/>
 <br/>
 
-## The data and R code for the tutorial will be available to download at the workshop
+## The data and R code for the tutorial are available in [workshop_data](../master/workshop_data/)
 
 
 
