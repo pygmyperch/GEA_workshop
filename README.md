@@ -77,7 +77,7 @@ library(dartR)
 <br/>
 <br/>
 
-## The data and R code for the tutorial can be downloaded [here](https://github.com/pygmyperch/GEA_workshop/archive/master.zip)
+## A zip file containing all data and R code for the tutorial can be downloaded [here](https://github.com/pygmyperch/GEA_workshop/archive/master.zip)
 
 
 
